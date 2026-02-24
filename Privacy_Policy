@@ -1,1 +1,521 @@
+# ANCHOR ME - PRIVACY POLICY
+
+**Effective Date:** February 24, 2026  
+**Last Updated:** February 24, 2026
+
+---
+
+## 1. INTRODUCTION
+
+Welcome to Anchor Me. Your privacy is critically important to us.
+
+This Privacy Policy explains how Vincent Leo Wrulich ("Anchor Me," "we," "us," or "our") handles your information when you use the Anchor Me mobile application (the "App").
+
+**Data Controller:**  
+Vincent Leo Wrulich  
+Am Eichenkamp 12  
+51427 Bergisch Gladbach  
+Germany  
+Email: anchorsupportme@proton.me
+
+**Key Privacy Principle:**  
+Anchor Me is designed with privacy-by-default. Almost all your data stays on your device, not on our servers.
+
+---
+
+## 2. INFORMATION WE COLLECT
+
+### 2.1 Data Stored Locally on Your Device (We Do NOT Have Access)
+
+The following data is stored **exclusively on your device** using local storage:
+
+**Session Data:**
+- Date and time of each session
+- Duration and technique used (breathing, grounding, distraction)
+- Panic intensity ratings (if you provide them)
+- Notes or journal entries (if you add them)
+- Effectiveness ratings
+- Calendar history and progress statistics
+
+**App Settings:**
+- Theme preference
+- Haptic feedback setting
+- Other app preferences
+
+**Emergency Contact (Optional):**
+- Contact name and phone number (if you choose to add one)
+- Pre-written message
+- **Important:** This information stays on your device. We never receive or have access to it.
+
+**Disclaimer Acceptance:**
+- A flag indicating you accepted the medical disclaimer
+- Timestamp of acceptance
+
+**What This Means:**
+- We do NOT receive copies of this data
+- We do NOT have access to your session details
+- We CANNOT see your panic attack history
+- This data is NOT backed up to cloud servers
+- If you delete the app or lose your device, this data is lost
+- You have complete control over this data
+
+### 2.2 Data We Receive (Minimal)
+
+**Subscription Status (via RevenueCat & Apple):**
+
+When you purchase a subscription, we receive:
+- Anonymous user identifier (generated automatically by RevenueCat)
+- Subscription status (active/expired/cancelled)
+- Subscription tier (monthly/annual/lifetime)
+- Purchase date
+
+We do NOT receive:
+- Your name
+- Your email address
+- Your credit card number
+- Your Apple ID
+- Any payment details
+
+**Payment Processing:**
+- All payment information is collected and processed by Apple
+- We never see your payment details
+- Apple's privacy policy governs payment data: apple.com/legal/privacy
+
+**Device Information (Minimal):**
+- Device type (e.g., iPhone 14)
+- Operating system version (e.g., iOS 17)
+- App version
+
+We do NOT collect:
+- Device advertising ID (IDFA)
+- IP address
+- Precise location
+- Device fingerprints
+
+### 2.3 Data We Do NOT Collect
+
+We do NOT collect:
+- Email addresses
+- Names or personal identifiers
+- Passwords or credentials
+- GPS location
+- Contacts from your phone
+- Photos or camera data
+- Microphone data
+- Text messages or call logs
+- Health data from Apple Health
+- Detailed analytics or behavioral tracking
+- Advertising identifiers
+- Browsing history
+
+---
+
+## 3. HOW WE USE YOUR INFORMATION
+
+### 3.1 Local Data (On Your Device)
+
+Local data is processed entirely on your device to:
+- Track your panic relief sessions
+- Generate calendar views and statistics
+- Enable PDF export of your session history
+- Store your app preferences
+
+We do NOT process this data because we do NOT have access to it.
+
+### 3.2 Subscription Data
+
+We use subscription information to:
+- Verify your access to premium features
+- Manage subscription status
+- Handle renewals and cancellations
+- Provide customer support (if you contact us)
+
+### 3.3 No Marketing or Research
+
+We do NOT:
+- Send marketing emails (we don't have your email)
+- Use your data for advertising
+- Sell your data to third parties
+- Conduct user profiling
+- Use your data for research
+
+---
+
+## 4. HOW WE SHARE YOUR INFORMATION
+
+### 4.1 Apple Inc. (Payment Processing)
+
+**What Apple collects:** Payment information, transaction data, Apple ID  
+**Purpose:** Process in-app purchases  
+**Apple's role:** Independent data controller  
+**Apple's privacy policy:** apple.com/legal/privacy
+
+### 4.2 RevenueCat Inc. (Subscription Management)
+
+**What RevenueCat receives:** Anonymous user ID, subscription status, device type  
+**Purpose:** Sync subscriptions across devices  
+**Location:** United States  
+**Safeguards:** Standard Contractual Clauses (GDPR-compliant)  
+**RevenueCat's privacy policy:** revenuecat.com/privacy
+
+### 4.3 What We Do NOT Share
+
+We do NOT share:
+- Your session data (we don't have access to it)
+- Your notes or journal entries (stored locally)
+- Your emergency contact (stored locally)
+- Any personal information with marketers, advertisers, or data brokers
+
+### 4.4 Legal Requirements
+
+We may disclose information if required by law (subpoenas, court orders). We will notify you unless legally prohibited.
+
+**Transparency:** To date, we have received **0** law enforcement requests for user data.
+
+---
+
+## 5. DATA SECURITY
+
+### 5.1 How Your Data is Protected
+
+**Local Data:**
+- Protected by your device security (passcode, Face ID, Touch ID)
+- Device encryption (if enabled) protects local data
+- Most secure: we can't access what we don't have
+
+**Data in Transit:**
+- TLS/SSL encryption for all communications
+- Encrypted connections to Apple and RevenueCat
+
+### 5.2 Your Responsibilities
+
+You can help protect your data by:
+- Using a strong device passcode
+- Enabling device encryption
+- Not jailbreaking your device
+- Installing iOS and app updates promptly
+- Securing exported PDF files (contain sensitive data)
+
+### 5.3 Exported PDFs
+
+When you export session data to PDF:
+- PDF is generated locally on your device
+- We do NOT receive a copy
+- The file is entirely your responsibility
+- Consider password-protecting PDFs before sharing
+
+---
+
+## 6. DATA RETENTION
+
+### 6.1 Retention Periods
+
+**Local Data (On Your Device):**
+- Stored indefinitely on your device
+- Deleted when you delete the app or clear app data
+- We cannot delete it (we don't have access to it)
+
+**Subscription Records:**
+- Transaction records: 7-10 years (required by tax law)
+- Anonymous subscription status: 90 days after cancellation
+
+**Support Communications (if you contact us):**
+- 3 years
+
+### 6.2 Deleting Your Data
+
+**To delete local data:**
+- Delete the Anchor Me app from your device
+- Or: Settings > General > iPhone Storage > Anchor Me > Delete App
+
+**To cancel subscription:**
+- Managed through Apple: Settings > Your Name > Subscriptions
+- Or through RevenueCat's customer portal
+
+**Note:** Canceling your subscription does not delete local data from your device.
+
+---
+
+## 7. YOUR RIGHTS (GDPR)
+
+As a user in the European Union or Germany, you have the following rights:
+
+### 7.1 Right to Access
+Request a copy of the minimal data we hold (anonymous subscription status).
+
+### 7.2 Right to Erasure
+Request deletion of your subscription data (subject to legal retention for transaction records).
+
+### 7.3 Right to Data Portability
+Receive your subscription data in a machine-readable format.
+
+### 7.4 Right to Object
+Object to processing based on legitimate interests.
+
+### 7.5 Right to Lodge a Complaint
+
+**Germany (Federal):**  
+Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)  
+Website: bfdi.bund.de  
+Email: poststelle@bfdi.bund.de  
+Phone: +49 (0)228 997799-0
+
+**North Rhine-Westphalia (State):**  
+Landesbeauftragte für Datenschutz und Informationsfreiheit NRW  
+Website: ldi.nrw.de  
+Email: poststelle@ldi.nrw.de  
+Phone: +49 (0)211 38424-0
+
+### 7.6 How to Exercise Your Rights
+
+Email: anchorsupportme@proton.me  
+Subject: "GDPR Request - [Type of Request]"
+
+We will respond within 30 days.
+
+**For local data (on your device):**
+- You have full control
+- Access: View in the app
+- Export: Use PDF export feature
+- Delete: Delete the app
+
+---
+
+## 8. INTERNATIONAL DATA TRANSFERS
+
+### 8.1 Where Data is Processed
+
+**Local Storage:** Your country (data stays on your device)
+
+**Apple Inc. (United States):**
+- Payment processing
+- Standard Contractual Clauses in place
+- GDPR-compliant
+
+**RevenueCat Inc. (United States):**
+- Subscription management
+- Standard Contractual Clauses in place
+- GDPR-compliant
+
+---
+
+## 9. CHILDREN'S PRIVACY
+
+Anchor Me is available to users aged **16 and older**.
+
+**For users 16-17:**
+- Parental or guardian consent is required
+- Parents/guardians are responsible for monitoring use
+
+We do not knowingly collect information from children under 16 without parental consent.
+
+If we discover we have collected data from a child under 16:
+- We will delete it immediately
+- We will terminate the account
+
+---
+
+## 10. NO TRACKING OR COOKIES
+
+**We do NOT use:**
+- Cookies (we're a native app, not a website)
+- Apple's IDFA (advertising identifier)
+- App tracking across other apps or websites
+- Google Analytics or other analytics services
+- Behavioral profiling
+
+**You will NOT see an App Tracking Transparency prompt from Anchor Me.**
+
+---
+
+## 11. THIRD-PARTY SERVICES
+
+### 11.1 Services We Use
+
+**Apple App Store:**
+- Distributes the app
+- Processes payments
+- Independent data collection (governed by Apple's privacy policy)
+
+**RevenueCat:**
+- Subscription backend
+- Syncs subscriptions across devices
+- Privacy policy: revenuecat.com/privacy
+
+### 11.2 Services We Do NOT Use
+
+We do NOT use:
+- Social media platforms
+- Analytics services
+- Advertising networks
+- Email marketing services
+- Cloud storage providers (data is local)
+- Crash reporting services
+
+---
+
+## 12. SPECIFIC FEATURES
+
+### 12.1 Session Tracking (Local Only)
+
+When you use a panic relief technique:
+- Session start/end time recorded locally
+- Technique used recorded locally
+- Optional: Intensity, notes, location (if you provide)
+
+**Privacy:** All data stays on your device.
+
+### 12.2 Shake-to-Start Feature
+
+Uses your device's accelerometer (hardware sensor).
+- Processed entirely on your device
+- We do NOT collect shake data
+
+### 12.3 PDF Export
+
+- PDF generated locally on your device
+- We do NOT receive a copy
+- Your responsibility to secure exported files
+
+### 12.4 Calendar Feature
+
+- Displays sessions in calendar view
+- Uses locally-stored data only
+- We do NOT access your device calendar
+
+### 12.5 Emergency Contact Feature
+
+- Stored exclusively on your device
+- We do NOT receive or access this information
+- Uses your device's native SMS capability
+- No message is sent automatically
+
+**Your responsibility:**
+- Obtain consent from emergency contact
+- Their data is protected by your device security
+
+---
+
+## 13. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time.
+
+**For material changes:**
+- In-app notification
+- Email notification (if we have your email from support contact)
+
+**For minor changes:**
+- Update "Last Updated" date
+- Changes effective immediately upon posting
+
+Continued use after changes indicates acceptance.
+
+---
+
+## 14. CONTACT US
+
+**Questions about this Privacy Policy:**
+
+Email: anchorsupportme@proton.me
+
+Address:  
+Vincent Leo Wrulich  
+Am Eichenkamp 12  
+51427 Bergisch Gladbach  
+Germany
+
+**Response Time:**
+- Acknowledgment: 5 business days
+- GDPR requests: 30 days
+- Complex requests: 60 days (with explanation)
+
+---
+
+## 15. LEGAL BASIS FOR PROCESSING (GDPR)
+
+We process minimal data based on:
+
+**Contract Performance (Article 6(1)(b)):**
+- Subscription management
+
+**Legitimate Interests (Article 6(1)(f)):**
+- Preventing fraud
+- Ensuring security
+
+**Legal Obligations (Article 6(1)(c)):**
+- Retaining transaction records for tax compliance
+
+**Special Category Data (Article 9):**
+- Session data (panic attacks, intensity) is health data
+- Stored exclusively on your device (local processing only)
+- We do NOT receive or process this data
+- If you voluntarily send us health data (e.g., in a support email), we process it with your explicit consent
+
+---
+
+## 16. TRANSPARENCY
+
+### 16.1 What You Should Know
+
+**We collect almost nothing:**
+- No email, no name, no personal identifiers
+- Anonymous subscription status only
+- Everything else is local on your device
+
+**This is intentional:**
+- Privacy-by-design
+- We can't access data we don't collect
+- You have complete control
+
+### 16.2 Law Enforcement Requests
+
+To date: **0** requests received.
+
+If we receive valid legal requests:
+- We will notify you unless prohibited
+- We will disclose only the minimum required
+- We will challenge overly broad requests
+
+---
+
+## 17. YOUR ACCEPTANCE
+
+By using Anchor Me, you acknowledge that:
+
+✓ You have read this Privacy Policy  
+✓ You understand most data stays on your device  
+✓ You understand we collect minimal subscription data only  
+✓ You consent to processing described in this policy
+
+**If you do not agree, do not use Anchor Me.**
+
+---
+
+## 18. SUMMARY
+
+**What We Collect:**
+- Almost nothing
+- Anonymous subscription status via RevenueCat
+- Everything else is local on your device
+
+**What We Do NOT Collect:**
+- Email addresses
+- Names
+- Passwords
+- Location data
+- Session details (local only)
+- Personal identifiers
+
+**Your Rights:**
+- Full GDPR rights
+- Complete control over local data
+- Can delete everything by deleting the app
+
+---
+
+**Effective Date:** February 24, 2026  
+**Version:** 2.0
+
+© 2026 Vincent Leo Wrulich. All rights reserved.
+
 
