@@ -1,1 +1,166 @@
+# 🛟 Anchor Me - Support
 
+Welcome to the official support repository for **Anchor Me**, your companion for managing panic attacks and anxiety.
+
+## 📱 About Anchor Me
+
+Anchor Me is a mental health app designed to provide immediate relief during panic attacks through evidence-based techniques including guided breathing exercises, grounding methods, and session tracking.
+
+**Available on the App Store:** [Download Anchor Me](https://apps.apple.com/app/anchor-me/id6759395300)
+
+---
+
+## 💬 Getting Support
+
+Need help with Anchor Me? We're here to assist you!
+
+### **📧 Email Support**
+
+For technical issues, feature requests, or general inquiries, please contact us at:
+
+**anchorsupportme@proton.me**
+
+We typically respond within 24-48 hours during business days.
+
+---
+
+## 🐛 Reporting Issues
+
+If you've encountered a bug or technical issue, please include the following information in your email:
+
+- **Device:** iPhone model (e.g., iPhone 14 Pro)
+- **iOS Version:** (e.g., iOS 18.2)
+- **App Version:** Found in Settings → About
+- **Issue Description:** What happened and what you expected to happen
+- **Steps to Reproduce:** How can we recreate the issue?
+- **Screenshots:** If applicable, attach screenshots
+
+**Example:**
+```
+Device: iPhone 13
+iOS Version: 18.1
+App Version: 1.0.0
+Issue: Breathing exercise doesn't start when tapped
+Steps: Open app → Tap "Anchor me" → Select "Breathing" → Nothing happens
+```
+
+---
+
+## 💡 Feature Requests
+
+We love hearing your ideas! To suggest a new feature:
+
+1. **Check existing issues** to avoid duplicates
+2. **Email us** at anchorsupportme@proton.me with:
+   - Clear description of the feature
+   - Use case: Why would this be helpful?
+   - How you envision it working
+
+---
+
+## ❓ Frequently Asked Questions
+
+### **General Questions**
+
+**Q: Is my data private?**  
+A: Yes! All your data is stored locally on your device. We don't collect, store, or transmit any personal information to external servers.
+
+**Q: Do I need an account?**  
+A: No. Anchor Me works completely offline without requiring any account or login.
+
+**Q: Does the app require an internet connection?**  
+A: No. All features work offline. Internet is only needed for in-app purchases.
+
+### **Subscription Questions**
+
+**Q: What's included in the premium subscription?**  
+A: Premium unlocks unlimited access to all breathing exercises, grounding techniques, and session history tracking.
+
+**Q: How do I cancel my subscription?**  
+A: Subscriptions are managed through your Apple ID. Go to Settings → [Your Name] → Subscriptions → Anchor Me → Cancel Subscription.
+
+**Q: Can I get a refund?**  
+A: Refund requests are handled by Apple. Visit [reportaproblem.apple.com](https://reportaproblem.apple.com) to request a refund.
+
+**Q: What's the difference between subscription tiers?**
+- **Monthly:** €4.99/month - Full access, cancel anytime
+- **Annual:** €49.99/year - Full access with 3-day free trial (save 17%)
+- **Lifetime:** €129.99 one-time - Full access forever, no recurring payments
+
+### **Technical Questions**
+
+**Q: The app isn't working after an iOS update. What should I do?**  
+A: Try these steps:
+1. Force quit the app (swipe up from app switcher)
+2. Restart your iPhone
+3. Check for app updates in the App Store
+4. If issues persist, email us at anchorsupportme@proton.me
+
+**Q: Can I sync data between devices?**  
+A: Currently, data is stored locally on each device. Cloud sync may be added in future updates.
+
+**Q: How do I restore my purchase?**  
+A: Go to Settings → Subscription → Restore Purchases. This will restore any active subscriptions or lifetime purchases tied to your Apple ID.
+
+---
+
+## 🔐 Privacy & Security
+
+**Privacy First:** Anchor Me is designed with your privacy as a top priority.
+
+- ✅ **No user accounts** - Start using immediately
+- ✅ **Local storage only** - All data stays on your device
+- ✅ **No tracking** - We don't collect analytics or usage data
+- ✅ **No ads** - Clean, distraction-free experience
+- ✅ **Secure storage** - Uses iOS secure storage for sensitive data
+
+For our complete privacy policy, visit: [Privacy Policy](https://github.com/AnchorSupportMe/Anchor/blob/main/PRIVACY.md)
+
+---
+
+## 📄 Legal
+
+- **Privacy Policy:** [View Privacy Policy](https://github.com/AnchorSupportMe/Anchor/blob/main/PRIVACY.md)
+- **Terms of Service:** [View Terms](https://github.com/AnchorSupportMe/Anchor/blob/main/TERMS.md)
+
+---
+
+## 🌟 Leave a Review
+
+Enjoying Anchor Me? We'd love to hear from you!  
+[⭐ Rate on the App Store](https://apps.apple.com/app/anchor-me/id6759395300?action=write-review)
+
+Your feedback helps us improve and reach more people who need support.
+
+---
+
+## 📱 Connect With Us
+
+- **Support Email:** anchorsupportme@proton.me
+- **GitHub:** [AnchorSupportMe](https://github.com/AnchorSupportMe)
+
+---
+
+## 🙏 Thank You
+
+Thank you for using Anchor Me. Your mental health matters, and we're honored to be part of your journey.
+
+Stay anchored. 🛟
+
+---
+
+## ⚠️ Important Notice
+
+**Anchor Me is not a substitute for professional medical advice, diagnosis, or treatment.**
+
+If you're experiencing a mental health emergency:
+- 🇺🇸 **USA:** Call 988 (Suicide & Crisis Lifeline)
+- 🇬🇧 **UK:** Call 116 123 (Samaritans)
+- 🇩🇪 **Germany:** Call 0800 111 0 111 (Telefonseelsorge)
+- 🇪🇺 **EU:** Call 112 (Emergency Services)
+
+For non-emergency mental health support, please consult a licensed healthcare professional.
+
+---
+
+**Copyright © 2026 Vincent Leo Wrulich. All rights reserved.**
